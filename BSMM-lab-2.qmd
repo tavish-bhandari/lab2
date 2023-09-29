@@ -33,7 +33,7 @@ library(tidymodels)   # for modeling
 library(gt)           # for making display tables
 #install.packages("gtExtras")
 library(gtExtras)     # helper functions for beautiful tables
-install.packages("DataExplorer")
+#install.packages("DataExplorer")
 library(DataExplorer) #
 ```
 
